@@ -1,1 +1,1 @@
-ES6 Promise
+0x01-ES6_promise
